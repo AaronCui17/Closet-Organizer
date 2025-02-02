@@ -1,0 +1,14 @@
+{"items": [
+    {
+        "colour": "purple",
+        "thickness": 3,
+        "name": "hoodie",
+        "type": "top"
+    },
+    {
+        "colour": "black",
+        "thickness": 3,
+        "name": "joggers",
+        "type": "bottom"
+    }
+]}

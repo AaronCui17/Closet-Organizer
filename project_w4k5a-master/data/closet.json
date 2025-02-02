@@ -1,0 +1,38 @@
+{"items": [
+    {
+        "colour": "White",
+        "thickness": 3,
+        "name": "Runners",
+        "type": "Shoe"
+    },
+    {
+        "colour": "Black",
+        "thickness": 4,
+        "name": "Vest",
+        "type": "Top"
+    },
+    {
+        "colour": "Blue",
+        "thickness": 3,
+        "name": "Jeans",
+        "type": "Bottom"
+    },
+    {
+        "colour": "Grey",
+        "thickness": 2,
+        "name": "Sweater",
+        "type": "Top"
+    },
+    {
+        "colour": "Green",
+        "thickness": 1,
+        "name": "T-shirt",
+        "type": "Top"
+    },
+    {
+        "colour": "White",
+        "thickness": 3,
+        "name": "Hoodie",
+        "type": "Top"
+    }
+]}

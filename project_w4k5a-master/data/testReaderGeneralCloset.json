@@ -1,0 +1,14 @@
+{"items": [
+  {
+    "colour": "white",
+    "thickness": 1,
+    "name": "shirt",
+    "type": "top"
+  },
+  {
+    "colour": "white",
+    "thickness": 2,
+    "name": "pants",
+    "type": "bottom"
+  }
+]}
